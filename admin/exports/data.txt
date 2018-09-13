@@ -1,0 +1,261 @@
+P/C1	P/C2	P3	P4	P5	P6	P7	P8	P9	P10	P11	P12	P13	P14	P15	P16	P17	P18	P19	P20	P21	P22	P23	P24	P25	P26	P27	P28	P29	P30	P31	P32	P33	P34	P35	P36	P37	P38	P39	P40	P41	P42	P43	P44	P45	P46	P47	P48	P49	P50	P51	P52	P53	P54	P55	P56	P57	P58	P59	P60	P61	P62	P63	P64	P65	P66	P67	P68	P69	P70	P71	P72	P73	P74	P75	P76	P77	P78	P79	P80	P81	P82	P83	P84	P85	P86	P87	P88	P89	P90	P91	P92	P93	P94	P95	P96	P97	P98	P99	P100	P101	P102	P103	P104	P105	P106	P107	P108	P109	P110	P111	P112
+P	8075573	WA	GUMTREE.COM.AU	20/07/2018		10		DRUMMOND	COVE 	GERALDTON	WA	LA	S			$155,000 NEGOTIABLE																																																							820.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075573	FOR SALE BY OWNER	MAT	TURNER																																																																																																											
+P	8075574	WA	GUMTREE.COM.AU	20/07/2018		15		MILLGATE	ROAD 	BALGA	WA	LA	S			$490,000 NEGOTIABLE																																																																																							NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075574	FOR SALE BY OWNER	GEOFF	TYE																																																																																																											
+P	8075575	WA	GUMTREE.COM.AU	20/07/2018		96		THOMPSON	STREET 	SINCLAIR	WA	LA	S			$15,000 NEGOTIABLE																																																																																							NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075575	FOR RENT BY OWNER	BOWIE																																																																																																												
+P	8075576	WA	GUMTREE.COM.AU	20/07/2018	216	31		WILDWOOD	HILL 	DAWESVILLE	WA	LA	S	120000																																																																																									NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075576	FOR SALE BY OWNER 	ROLAND 	LOGUE 																																																																																																											
+P	8075577	WA	GUMTREE.COM.AU	20/07/2018		10		WEXFORD	LANE 	BUNBURY	WA	LA	S			$330,000 NEGOTIABLE											Y																																												337.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075577	FOR SALE BY OWNER 																																																																																																													
+P	8075578	WA	GUMTREE.COM.AU	20/07/2018		7		ZAMIA	TERRACE 	WUNDOWIE	WA	LA	S			$59,000 NEGOTIABLE																																																							650.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075578	FOR SALE BY OWNER 	JIM	ROBINSON																																																																																																											
+P	8075579	WA	GUMTREE.COM.AU	20/07/2018	233	16		SPRING	BOULEVARD 	DAWESVILLE	WA	LA	S	135000													Y				Y																																								305.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075579	FOR SALE BY OWNER	ROLAND 	LOGUE																																																																																																											
+P	8075580	WA	GUMTREE.COM.AU	20/07/2018	98	3		MICHELE	COURT 	SOUTH BUNBURY	WA	LA	S			$175,000 NEGOTIABLE																	Y																																						683.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075580	FOR SALE BY OWNER																																																																																																													
+P	8075581	WA	GUMTREE.COM.AU	20/07/2018		11		BOTANY	PARADE 	HAMMOND PARK	WA	LA	S	160000																																																									1075.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075581	FOR SALE BY OWNER	IAN	GILL																																																																																																											
+P	8075582	WA	GUMTREE.COM.AU	20/07/2018	742	30		CRUSOE	CRESCENT 	JURIEN BAY	WA	LA	S			$99,000 OR NEAREST OFFER																																																							717.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075582	FOR SALE BY OWNER	WAYNE	BOYLAN																																																																																																											
+P	8075583	WA	GUMTREE.COM.AU	20/07/2018		10		GREGORY	STREET 	BELMONT	WA	LA	S			$535,000 NEGOTIABLE																																																							582.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075583	FOR SALE BY OWNER 	AGA																																																																																																												
+P	8075584	WA	GUMTREE.COM.AU	20/07/2018		16		OLD FARM	ROAD 	AUGUSTA	WA	LA	S	145000																																																									827.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075584	FOR SALE BY OWNER	CRAIG																																																																																																												
+P	8075585	WA	GUMTREE.COM.AU	20/07/2018		16		FRY	COURT 	DENHAM	WA	LA	S	199000																																																									950.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075585	FOR SALE BY OWNER	IAN																																																																																																												
+P	8075586	WA	GUMTREE.COM.AU	20/07/2018		16		EVANA	TERRACE 	WANDINA	WA	LA	S			$155,550 NEGOTIABLE						Y																																																	2004.00	M2																											OCEAN				NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075586	FOR SALE BY OWNER	BOB	COPE																																																																																																											
+P	8075587	WA	GUMTREE.COM.AU	20/07/2018		34		FRUIT TREE	CRESCENT 	FORRESTFIELD	WA	LA	S	299000																																																									496.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075587	FOR SALE BY OWNER 	EMMA																																																																																																												
+P	8075588	WA	GUMTREE.COM.AU	20/07/2018		9		BROADSIDE	AVENUE 	ALKIMOS	WA	LA	S	319000																																																									510.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075588	FOR SALE BY OWNER 	SAM																																																																																																												
+P	8075589	WA	GUMTREE.COM.AU	20/07/2018		30		SECOND	ROAD 	BEJOORDING	WA	LA	S	79999																																																									4.50	ACRES																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075589	FOR SALE BY OWNER 																																																																																																													
+P	8075590	WA	GUMTREE.COM.AU	20/07/2018	917	23		HAYFORD	ROAD 	HAYNES	WA	LA	S	220000																																																									450.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075590	FOR SALE BY AGENCY	LIAN	NURLIANSYAH																																																																																																											
+P	8075591	WA	GUMTREE.COM.AU	20/07/2018		40		SHORT	STREET 	MULLEWA	WA	LA	S			$4,000 NEGOTIABLE																																																							1012.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075591	FOR SALE BY OWNER 	PIA																																																																																																												
+P	8075592	WA	GUMTREE.COM.AU	20/07/2018	115	17		LITTLE	STREET 	CAREY PARK	WA	LA	S			NEGOTIABLE											Y																																												1133.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075592	FOR SALE BY OWNER 	TINA																																																																																																												
+P	8075593	WA	GUMTREE.COM.AU	20/07/2018		24		CENTENNIAL	AVENUE 	HARVEY	WA	LA	S			$170,000 NEGOTIABLE																																																							1120.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075593	FOR SALE BY OWNER 	SANDRA																																																																																																												
+P	8075594	WA	GUMTREE.COM.AU	20/07/2018		16		CUNNINGHAM	CRESCENT 	COLLIE	WA	LA	S	55000																																																																																									NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075594	FOR SALE BY OWNER	HELEN																																																																																																												
+P	8075595	WA	GUMTREE.COM.AU	20/07/2018		42		EYNESFORD	STREET 	GOSNELLS	WA	LA	S	159000													Y																																												485.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075595	FOR SALE BY AGENCY	JASON																																																																																																												
+P	8075596	WA	GUMTREE.COM.AU	20/07/2018		4		ANNING	COURT 	WALPOLE	WA	LA	S			NEGOTIABLE																																																							1467.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075596	FOR SALE BY OWNER	LEAH																																																																																																												
+P	8075597	WA	GUMTREE.COM.AU	20/07/2018		14		BONEWOOD	COURT 	BECKENHAM	WA	LA	S	1800000																																																									5765.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075597	FOR SALE BY OWNER 	PENNY																																																																																																												
+P	8075598	WA	GUMTREE.COM.AU	20/07/2018		10		SPYGLASS 	HILL 	DRUMMOND COVE	WA	LA	S			$155,000 NEGOTIABLE						Y																																																	820.00	M2																											OCEAN				NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075598	FOR SALE BY OWNER 	MAT	TURNER																																																																																																											
+P	8075599	WA	GUMTREE.COM.AU	20/07/2018		28		EGO CREEK	LOOP 	WAGGRAKINE	WA	LA	S			$89,000 NEGOTIABLE												Y																																											709.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075599	FOR SALE BY OWNER 	NIGEL																																																																																																												
+P	8075600	WA	GUMTREE.COM.AU	20/07/2018		13	A	MURRAY 	DRIVE 	HIGH WYCOMBE	WA	LA	S	200000													Y																																												350.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075600	FOR SALE BY OWNER 	ESTHER																																																																																																												
+P	8075601	WA	GUMTREE.COM.AU	20/07/2018		7		GROVE PARK	TERRACE 	QUINDALUP	WA	LA	S	580000																																																									1.00	HECTARES																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075601	FOR SALE BY OWNER 	ALASTAIR 																																																																																																												
+P	8075602	WA	GUMTREE.COM.AU	20/07/2018	1	14		YEEDA	STREET 	RIVERTON	WA	LA	S	499000													Y																																												406.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075602	FOR SALE BY OWNER	ERIC																																																																																																												
+P	8075603	WA	GUMTREE.COM.AU	20/07/2018		38		WRIGHT	STREET 	KEWDALE	WA	LA	S			$50,000 NEGOTIABLE 																																																							1012.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075603	FOR SALE BY OWNER 	JERALINE																																																																																																												
+P	8075604	WA	GUMTREE.COM.AU	20/07/2018	2	14		YEEDA	STREET 	RIVERTON	WA	LA	S	499000													Y																																												406.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075604	FOR SALE BY OWNER	ERIC																																																																																																												
+P	8075605	WA	GUMTREE.COM.AU	20/07/2018	2	13	A	TOWNSEND	STREET 	ARMADALE	WA	LA	S	110000																																																																																									NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075605	FOR SALE AGENCY 	CRISTIAN																																																																																																												
+P	8075606	WA	GUMTREE.COM.AU	20/07/2018		71		CORMORANT	KEY 	WANNANUP	WA	LA	S	485000																																																																																									NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075606	FOR SALE BY OWNER	MARIE																																																																																																												
+P	8075607	WA	GUMTREE.COM.AU	20/07/2018		4		THE VISTA	BOULEVARD 	BOUVARD	WA	LA	S			$289,000 NEGOTIABLE 																																																							4150.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075607	FOR RENT BY OWNER	ROB	ROTH																																																																																																											
+P	8075608	WA	GUMTREE.COM.AU	20/07/2018		294		MASON	ROAD 	PIARA WATERS	WA	LA	S			NEGOTIABLE																																																							225.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075608	FOR SALE BY OWNER	SARAH																																																																																																												
+P	8075609	WA	GUMTREE.COM.AU	20/07/2018		16		NUMULGI	STREET 	ARMADALE	WA	LA	S	195000													Y																																												728.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075609	FOR SALE BY AGENCY	EDDIE	JAMES																																																																																																											
+P	8075610	WA	GUMTREE.COM.AU	20/07/2018	2	21		LENNOX	ROAD 	THORNLIE	WA	LA	S	189000													Y																																												366.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075610	FOR SALE BY OWNER	VERNERS	PLEIKSNA	0410 620 925																																																																																																										
+P	8075611	WA	GUMTREE.COM.AU	20/07/2018		58		GINGIN	ROAD 	LANCELIN	WA	LA	S			NEGOTIABLE																																																																																							NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075611	FOR SALE BY AGENCY	DAVID																																																																																																												
+C	8075611	FOR SALE BY AGENCY 	BARBARA																																																																																																												
+P	8075612	WA	GUMTREE.COM.AU	20/07/2018		1095		THOMAS	ROAD 	OAKFORD	WA	LA	S			$699,000 NEGOTIABLE																																																							5.35	ACRES																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075612	FOR SALE BY AGENCY	NANI		0415 558 594																																																																																																										
+P	8075613	WA	GUMTREE.COM.AU	20/07/2018		6		LOWANNAA	ROAD 	MARTIN	WA	LA	S	440000								Y																																																	2004.00	M2																											SCENIC				NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075613	FOR SALE BY OWNER	EUGENE																																																																																																												
+P	8075614	WA	GUMTREE.COM.AU	20/07/2018		113		MILLS	STREET 	QUEENS PARK	WA	LA	S			NEGOTIABLE																																																							4044.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075614	FOR SALE BY OWNER	MARTINA	UPTON																																																																																																											
+P	8075615	WA	GUMTREE.COM.AU	20/07/2018		6		LOWANNAA	ROAD 	MARTIN	WA	LA	S	440000								Y																																																	2004.00	M2																											SCENIC				NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075615	FOR SALE BY OWNER	EUGENE																																																																																																												
+P	8075616	WA	GUMTREE.COM.AU	20/07/2018		13		CAMPBELL	STREET 	CORRIGIN	WA	LA	S	65000																																																																																									NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075616	FOR SALE BY OWNER 	GUIDO																																																																																																												
+P	8075617	WA	GUMTREE.COM.AU	20/07/2018	102	19		LANGFORD	ROAD 	YORK	WA	LA	S			$88,000 NEGOTIABLE																																																							2532.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075617	FOR SALE BY OWNER	PATRICE																																																																																																												
+P	8075618	WA	GUMTREE.COM.AU	20/07/2018		34		GREY	STREET 	CANNINGTON	WA	LA	S			NEGOTIABLE											Y																																																																												NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075618	FOR SALE BY OWNER	MARTINA	UPTON																																																																																																											
+P	8075619	WA	GUMTREE.COM.AU	20/07/2018	3	33		MORETON	TERRACE 	DONGARA	WA	LA	S	687500																																																									5.00	ACRES																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075619	FOR SALE BY AGENCY 	HELEN 																																																																																																												
+P	8075620	WA	GUMTREE.COM.AU	20/07/2018		79		WEBB	STREET 	MENZIES	WA	LA	S	9000													Y																																												1200.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075620	FOR SALE BY OWNER 	CODY																																																																																																												
+P	8075621	WA	GUMTREE.COM.AU	20/07/2018		137		FOURTH	AVENUE 	KENDENUP	WA	LA	S			$25,000 NEGOTIABLE																																																							1012.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075621	FOR SALE BY OWNER	ANDREW																																																																																																												
+P	8075622	WA	GUMTREE.COM.AU	20/07/2018	76	193		TWILIGHT BEACH	ROAD 	WEST BEACH	WA	LA	S			$1,800,000 NEGOTIABLE 						Y																																																	15.00	ACRES																											SCENIC				NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075622	FOR SALE BY OWNER	IVY	TAN																																																																																																											
+P	8075623	WA	GUMTREE.COM.AU	20/07/2018		20		PECORINO	LANE 	SPEARWOOD	WA	LA	S			$385,000 NEGOTIABLE																																																							310.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075623	FOR SALE BY OWNER 	STUART																																																																																																												
+P	8075624	WA	GUMTREE.COM.AU	20/07/2018		22		TREVOR	COURT 	ROLEYSTONE	WA	LA	S	395000																																																									1179.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075624	FOR SALE BY OWNER	EUGENE 																																																																																																												
+P	8075625	WA	GUMTREE.COM.AU	20/07/2018		7		CYCAD	CRESCENT 	WUNDOWIE	WA	LA	S			$300,000 NEGOTIABLE																																																							7.20	ACRES																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075625	FOR SALE BY OWNER	CHARMAINE																																																																																																												
+P	8075626	WA	GUMTREE.COM.AU	20/07/2018		5		MADDOX	VISTA 	LAKELANDS	WA	LA	S			NEGOTIABLE																																																							1632.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075626	FOR SALE BY OWNER	STEVE																																																																																																												
+P	8075627	WA	GUMTREE.COM.AU	20/07/2018		9		LAMONT	STREET 	MIDLAND	WA	LA	S	170000																																																									353.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075627	FOR SALE BY OWNER 																																																																																																													
+P	8075628	WA	GUMTREE.COM.AU	20/07/2018		40		KINSALE	PARKWAY 	CANNING VALE	WA	LA	S	370000																																																									486.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075628	FOR SALE BY AGENCY	JACK																																																																																																												
+P	8075629	WA	GUMTREE.COM.AU	20/07/2018		339		PECHEY	ROAD 	JANE BROOK	WA	LA	S	435000								Y																																																	2013.00	M2																											CITY				NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075629	FOR SALE BY OWNER	JEAN	ORMSBY																																																																																																											
+P	8075630	WA	GUMTREE.COM.AU	20/07/2018		17		PARK	STREET 	COLLIE	WA	LA	S			$55,000 NEGOTIABLE																																																							792.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075630	FOR SALE BY OWNER	SAM																																																																																																												
+P	8075631	WA	GUMTREE.COM.AU	20/07/2018		410		JURIEN BAY	VISTA 	JURIEN BAY	WA	LA	S	126000																																																									11.00	ACRES																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075631	FOR SALE BY OWNER	GARY	SPROULE																																																																																																											
+P	8075632	WA	GUMTREE.COM.AU	20/07/2018		66		WEBB	STREET 	MENZIES	WA	LA	S			$10,000 NEGOTIABLE																																																							0.25	ACRES																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075632	FOR SALE BY OWNER																																																																																																													
+P	8075633	WA	GUMTREE.COM.AU	20/07/2018		8		OMEGA	STREET 	SOUTHERN CROSS	WA	LA	S	18500																																																									861.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075633	FOR SALE BY OWNER	RODNEY																																																																																																												
+P	8075634	WA	GUMTREE.COM.AU	20/07/2018		32		STONESTREET	WAY 	WONGAN HILLS	WA	LA	S	63000																																																									2.45	ACRES																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075634	FOR SALE BY OWNER	CYNTHIA	ROOKS																																																																																																											
+P	8075635	WA	GUMTREE.COM.AU	20/07/2018	800	28		WAITARA	CRESCENT 	GREENWOOD	WA	LA	S	399000													Y																																												417.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075635	FOR SALE BY AGENCY	BEN																																																																																																												
+P	8075636	WA	GUMTREE.COM.AU	20/07/2018	801	28		WAITARA	CRESCENT 	GREENWOOD	WA	LA	S	345000													Y																																												345.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075636	FOR SALE BY AGENCY	BEN																																																																																																												
+P	8075637	WA	GUMTREE.COM.AU	20/07/2018		13		MARY	STREET 	COLLIE	WA	LA	S			$160,000 NEGOTIABLE																																																							2400.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075637	FOR SALE BY OWNER	TRACEY	ALLEN																																																																																																											
+P	8075638	WA	GUMTREE.COM.AU	20/07/2018		3		FARNABY	LANE 	GREENOUGH	WA	LA	S			$165,000 NEGOTIABLE																																																							3.00	ACRES																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075638	FOR SALE BY OWNER	RODD																																																																																																												
+P	8075639	WA	GUMTREE.COM.AU	20/07/2018		67		SHENTON	ROAD 	WOODANILLING	WA	LA	S			$40,000 NEGOTIABLE																																																							1.40	ACRES																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075639	FOR SALE BY AGENCY 	MARGARET	HUNTER																																																																																																											
+P	8075640	WA	GUMTREE.COM.AU	20/07/2018		611		SWALLOW	LANE 	CHITTERING	WA	LA	S			$180,000 NEGOTIABLE																																																							5.00	ACRES																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075640	FOR SALE BY OWNER	JAMES																																																																																																												
+P	8075641	WA	GUMTREE.COM.AU	20/07/2018		32		STOCK	STREET 	MULLEWA	WA	LA	S	14900																																																									2087.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075641	FOR SALE BY OWNER 	ROB																																																																																																												
+P	8075642	WA	GUMTREE.COM.AU	20/07/2018		393		SOUTHERN ESTUARY	ROAD 	HERRON	WA	LA	S			$300,000 NEGOTIABLE																																																							2.78	HECTARES																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075642	FOR SALE BY OWNER	EVELYN																																																																																																												
+P	8075643	WA	GUMTREE.COM.AU	20/07/2018	1	13		HOLMESDALE	ROAD 	WOODBRIDGE	WA	LA	S	350000													Y																																												471.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075643	FOR SALE BY OWNER 	MICHAELA																																																																																																												
+P	8075644	WA	GUMTREE.COM.AU	20/07/2018	2	13		HOLMESDALE	ROAD 	WOODBRIDGE	WA	LA	S	350000													Y																																												541.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075644	FOR SALE BY OWNER 	MICHAELA																																																																																																												
+P	8075645	WA	GUMTREE.COM.AU	20/07/2018		189		HILLCREST	RIDGE 	WOODBRIDGE	WA	LA	S			$270,000 NEGOTIABLE																																																																																							NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075645	FOR SALE BY OWNER	BRANDON																																																																																																												
+C	8075645	FOR SALE BY OWNER	TERESA																																																																																																												
+P	8075646	WA	GUMTREE.COM.AU	20/07/2018		217		SEVENOAKS	STREET 	CANNINGTON	WA	LA	S			$499,000 NEGOTIABLE											Y					Y																																																																							NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075646	FOR SALE BY AGENCY	STEVEN																																																																																																												
+P	8075647	WA	GUMTREE.COM.AU	20/07/2018		289		DUKE	STREET 	NORTHAM	WA	LA	S	65000																																																									1196.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075647	FOR SALE BY OWNER	CALLAN																																																																																																												
+P	8075648	WA	GUMTREE.COM.AU	20/07/2018		18		WHITE HART	LANE 	BALDIVIS	WA	LA	S	199000																																																									503.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075648	FOR SALE BY OWNER																																																																																																													
+P	8075649	WA	GUMTREE.COM.AU	20/07/2018		8		NIVEN	CRESCENT 	CARNAMAH	WA	LA	S			$10,000 NEGOTIABLE 																																																							0.25	ACRES																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075649	FOR SALE BY OWNER 	LANCE 																																																																																																												
+P	8075650	WA	GUMTREE.COM.AU	20/07/2018		11		BIBBULMUN	MEANDER 	RAVENSWOOD	WA	LA	S			$147,900 NEGOTIABLE																																																							670.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075650	FOR SALE BY OWNER	SHARON																																																																																																												
+P	8075651	WA	GUMTREE.COM.AU	20/07/2018		31		SUNSTONE	DRIVE 	KALBARRI	WA	LA	S	60000																																																									555.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075651	FOR SALE BY AGENCY	COLIN	ANDERSON																																																																																																											
+P	8075652	WA	GUMTREE.COM.AU	20/07/2018		14		MECKERING	TURN 	DAWESVILLE	WA	LA	S	260000																																																									763.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075652	FOR SALE BY OWNER	SUSIE																																																																																																												
+P	8075653	WA	GUMTREE.COM.AU	20/07/2018		45		CANNING MILLS	ROAD 	KELMSCOTT	WA	LA	S			$250,000 NEGOTIABLE																																			Y																				1063.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075653	FOR SALE BY OWNER	ERNST																																																																																																												
+P	8075654	WA	GUMTREE.COM.AU	20/07/2018		11		ST GEORGE	AVENUE 	CHAMPION LAKES	WA	LA	S	575000																																																									3280.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075654	FOR SALE BY AGENCY	STEVEN																																																																																																												
+P	8075655	WA	GUMTREE.COM.AU	20/07/2018		16	A	HELM	STREET 	MOUNT PLEASANT	WA	LA	S	398000																																																									398.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075655	FOR SALE BY OWNER	EVA																																																																																																												
+P	8075656	WA	GUMTREE.COM.AU	20/07/2018	428	11		MILLIGAN	WAY 	CANNING VALE	WA	LA	S			$185,000 NEGOTIABLE																																																							580.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075656	FOR SALE BY OWNER	VIKKI																																																																																																												
+P	8075657	WA	GUMTREE.COM.AU	20/07/2018		26		MILLS	STREET 	MULLEWA	WA	LA	S			$14,000 NEGOTIABLE 																																																							961.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075657	FOR SALE BY OWNER 	SERWAN 	ALQASSAB	0404 666 677																																																																																																										
+P	8075658	WA	GUMTREE.COM.AU	20/07/2018		70		JOSE	STREET 	MULLEWA	WA	LA	S			$15,000 NEGOTIABLE																																																							865.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075658	FOR SALE BY OWNER 	SERWAN 	ALQASSAB																																																																																																											
+P	8075659	WA	GUMTREE.COM.AU	20/07/2018		136		PRESIDENT	STREET 	KEWDALE	WA	LA	S			$279,000 NEGOTIABLE																																																							262.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075659	FOR SALE BY AGENCY	STEVEN																																																																																																												
+P	8075660	WA	GUMTREE.COM.AU	20/07/2018		24		NORTHWOOD	STREET 	NARROGIN	WA	LA	S	59000																																																									1012.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075660	FOR SALE BY AGENCY	MICHELLE																																																																																																												
+P	8075661	WA	GUMTREE.COM.AU	20/07/2018		3		CORRIE	STREET 	CUBALLING	WA	LA	S	39900																																																									2313.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075661	FOR SALE BY OWNER 	TOM																																																																																																												
+P	8075662	WA	GUMTREE.COM.AU	20/07/2018		5		CORRIE	STREET 	CUBALLING	WA	LA	S	39900																																																									2311.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075662	FOR SALE BY OWNER	TOM																																																																																																												
+P	8075663	WA	GUMTREE.COM.AU	20/07/2018		7		CORRIE	STREET 	CUBALLING	WA	LA	S	39900																																																									2313.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075663	FOR SALE BY OWNER	TOM																																																																																																												
+P	8075664	WA	GUMTREE.COM.AU	20/07/2018		10		RUBUS	VISTA 	HALLS HEAD	WA	LA	S	399000																																																									540.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075664	FOR SALE BY OWNER	GRAHAM																																																																																																												
+P	8075665	WA	GUMTREE.COM.AU	20/07/2018		5		SCOTT	STREET 	KOORDA	WA	LA	S			$20,000 NEGOTIABLE																																																							1113.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075665	FOR SALE BY OWNER	MADDY																																																																																																												
+P	8075666	WA	GUMTREE.COM.AU	20/07/2018		45		ANZAC	TERRACE 	BASSENDEAN	WA	LA	S	329000													Y																																												543.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075666	FOR SALE BY OWNER	SKYE																																																																																																												
+P	8075667	WA	GUMTREE.COM.AU	20/07/2018		37		CAMPBELL	STREET 	EAST CANNINGTON	WA	LA	S			$1,200,000 NEGOTIABLE 																																																							3055.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075667	GRG GUARDIAN WA PROPERTY CONSULTANT	STEVEN	LIM																																																																																																											
+P	8075668	WA	GUMTREE.COM.AU	20/07/2018		39		CAMPBELL	STREET 	EAST CANNINGTON	WA	LA	S	1200000													Y																																												3055.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075668	GRG GUARDIAN WA PROPERTY CONSULTANT	STEVEN	LIM																																																																																																											
+P	8075669	WA	GUMTREE.COM.AU	20/07/2018		441		BREERA	ROAD 	BREERA	WA	LA	S			$2,890,000 NEGOTIABLE 																																						Y																	764.00	HECTARES																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075669	GRG GUARDIAN WA REALTY	STEVEN	LIM																																																																																																											
+P	8075670	WA	GUMTREE.COM.AU	20/07/2018		112		SUITER	STREET 	MENZIES	WA	LA	S	10000																																																									1012.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075670	FOR SALE BY OWNER 	HILARY 																																																																																																												
+P	8075671	WA	GUMTREE.COM.AU	20/07/2018		1		NASH	PLACE 	BEECHBORO	WA	LA	S			$240,000 NEGOTIABLE																																																							353.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075671	FOR SALE BY OWNER	SHARON																																																																																																												
+P	8075672	WA	GUMTREE.COM.AU	20/07/2018		61		FREDERIC	STREET 	MIDLAND	WA	LA	S			$645,000 NEGOTIABLE											Y																																												1247.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075672	FOR SALE BY OWNER 	MARIO																																																																																																												
+P	8075673	WA	GUMTREE.COM.AU	20/07/2018		79		KING	STREET 	COOLGARDIE	WA	LA	S	10000																																																									8.00	ACRES																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075673	FOR SALE BY AGENCY 	TREV																																																																																																												
+P	8075674	WA	GUMTREE.COM.AU	20/07/2018		98		CRAWFORD	STREET 	EAST CANNINGTON	WA	LA	S			$1,100,000 NEGOTIABLE																																																							3237.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075674	GUARDIAN WA PROPERTY CONSULTANT 	STEVEN																																																																																																												
+P	8075675	WA	GUMTREE.COM.AU	20/07/2018		124	B	ROBERTS	ROAD 	RIVERVALE	WA	LA	S	349000																																																									436.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075675	GUARDIAN WA PROPERTY CONSULTANT 	STEVEN	LIM																																																																																																											
+P	8075676	WA	GUMTREE.COM.AU	20/07/2018		83	B	LUYER	AVENUE 	EAST CANNINGTON	WA	LA	S	385000																																																									580.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075676	GUARDIAN WA PROPERTY CONSULTANT 	STEVEN	LIM																																																																																																											
+P	8075677	WA	GUMTREE.COM.AU	20/07/2018		49		CRAWFORD	STREET 	EAST CANNINGTON	WA	LA	S	1190000																					Y																																				1104.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075677	GUARDIAN WA PROPERTY CONSULTANT 	STEVEN	LIM																																																																																																											
+P	8075678	WA	GUMTREE.COM.AU	20/07/2018		100		CRAWFORD	STREET 	EAST CANNINGTON	WA	LA	S	489000																																																									1074.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075678	GUARDIAN WA PROPERTY CONSULTANT 	STEVEN	LIM																																																																																																											
+P	8075679	WA	GUMTREE.COM.AU	20/07/2018		102		CRAWFORD	STREET 	EAST CANNINGTON	WA	LA	S	949000																																																									3246.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075679	GUARDIAN WA PROPERTY CONSULTANT 	STEVEN	LIM																																																																																																											
+P	8075680	WA	GUMTREE.COM.AU	20/07/2018		27		BENT	STREET 	EAST CANNINGTON	WA	LA	S	2300000																																																									3557.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075680	GUARDIAN WA PROPERTY CONSULTANT 	STEVEN	LIM																																																																																																											
+P	8075681	WA	GUMTREE.COM.AU	20/07/2018		214		GREAT EASTERN	HIGHWAY 	ASCOT	WA	LA	S	2200000																																																									1784.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075681	GUARDIAN WA REALTY PROPERTY CONSULTANT	STEVEN	LIM																																																																																																											
+P	8075682	WA	GUMTREE.COM.AU	20/07/2018		22		PECHAM	STREET 	BECKENHAM	WA	LA	S	878000																																																									2023.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075682	GUARDIAN WA REALTY PROPERTY CONSULTANT	STEVEN	LIM																																																																																																											
+P	8075683	WA	GUMTREE.COM.AU	20/07/2018		11		QUAIL	PLACE 	LANGFORD	WA	LA	S	1100000																																																																																									NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075683	GUARDIAN WA REALTY PROPERTY CONSULTANT	STEVEN	LIM																																																																																																											
+P	8075684	WA	GUMTREE.COM.AU	20/07/2018		35		KENWICK	ROAD 	KENWICK	WA	LA	S	425000																																																									1019.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075684	GUARDIAN WA REALTY PROPERTY CONSULTANT	STEVEN	LIM																																																																																																											
+P	8075685	WA	GUMTREE.COM.AU	20/07/2018		103		PARK	ROAD 	KENWICK	WA	LA	S	1100000																																																									4336.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075685	GUARDIAN WA REALTY PROPERTY CONSULTANT	STEVEN	LIM																																																																																																											
+P	8075686	WA	GUMTREE.COM.AU	20/07/2018		227		SPENCER	ROAD 	THORNLIE	WA	LA	S	1490000																																																									1684.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075686	GUARDIAN WA REALTY PROPERTY CONSULTANT	STEVEN	LIM																																																																																																											
+P	8075687	WA	GUMTREE.COM.AU	20/07/2018		82		ELIZABETH	STREET 	EAST CANNINGTON	WA	LA	S	625000	650000																																																								1284.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075687	GUARDIAN WA REALTY PROPERTY CONSULTANT	STEVEN	LIM																																																																																																											
+P	8075688	WA	GUMTREE.COM.AU	20/07/2018		38		ALDERLEY	SQUARE 	WILSON	WA	LA	S	689000																																																									800.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075688	GUARDIAN WA REALTY PROPERTY CONSULTANT	STEVEN	LIM																																																																																																											
+P	8075689	WA	GUMTREE.COM.AU	20/07/2018		8		WHITBY	CLOSE 	BENTLEY	WA	LA	S	635000																																																									822.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075689	GUARDIAN WA REALTY PROPERTY CONSULTANT	STEVEN	LIM																																																																																																											
+P	8075690	WA	GUMTREE.COM.AU	20/07/2018	3	194		BOARDMAN	ROAD 	CANNING VALE	WA	LA	S			$150,000 NEGOTIABLE 																																																							13.00	ACRES																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075690	FOR SALE BY OWNER 	CHRIS 	PIERRE 																																																																																																											
+P	8075691	WA	GUMTREE.COM.AU	20/07/2018		29		OLDHAM	CRESCENT 	HILTON	WA	LA	S			$170,000 NEGOTIABLE 																																																							63.00	ACRES																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075691	FOR SALE BY OWNER 	IAN 																																																																																																												
+P	8075692	WA	GUMTREE.COM.AU	20/07/2018	2	11		RUSSELL	STREET 	EAST CANNINGTON	WA	LA	S			$238,000 NEGOTIABLE 																																																							267.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075692	GUARDIAN WA REALTY PROPERTY CONSULTANT	STEVEN	LIM																																																																																																											
+P	8075693	WA	GUMTREE.COM.AU	20/07/2018		11		RUSSELL	STREET 	EAST CANNINGTON	WA	LA	S			$243,000 NEGOTIABLE 											Y					Y																																							267.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075693	GUARDIAN WA REALTY PROPERTY CONSULTANT	STEVEN	LIM																																																																																																											
+P	8075694	WA	GUMTREE.COM.AU	20/07/2018		43		BLAXLAND	AVENUE 	TWO ROCKS	WA	LA	S	198000								Y																																																	810.00	M2																											OCEAN				NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075694	FOR SALE BY OWNER	MARIE																																																																																																												
+P	8075695	WA	GUMTREE.COM.AU	20/07/2018		85		MT SHADFORTH	ROAD 	DENMARK	WA	LA	S	170000																																																									1323.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075695	FOR SALE BY OWNER	JULIE	CARTER																																																																																																											
+P	8075696	WA	GUMTREE.COM.AU	20/07/2018		214		GREAT EASTERN	HIGHWAY 	ASCOT	WA	LA	S			$2,200,000 NEGOTIABLE																																																							1784.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075696	GUARDIAN WA REALTY PROPERTY CONSULTANT	STEVEN	LIM																																																																																																											
+P	8075697	WA	GUMTREE.COM.AU	20/07/2018		2		LAKESIDE	TERRACE 	PRESTON BEACH	WA	LA	S			$220,000 NEGOTIABLE																																																							1100.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075697	FOR SALE BY OWNER	BRETT																																																																																																												
+P	8075698	WA	GUMTREE.COM.AU	20/07/2018		127		WANAPING	ROAD 	KENWICK	WA	LA	S			$925,000 NEGOTIABLE											Y																																												7573.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075698	GRG GUARDIAN WA REALTY	STEVEN	LIM																																																																																																											
+P	8075699	WA	GUMTREE.COM.AU	20/07/2018	1	8		DUGDALE	STREET 	WARWICK	WA	LA	S	370000													Y																																																																												NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075699	FOR SALE BY AGENCY 	BARRY																																																																																																												
+P	8075700	WA	GUMTREE.COM.AU	20/07/2018		42		CAMBERWELL	STREET 	BECKENHAM	WA	LA	S			NEGOTIABLE																																																							1441.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075700	FOR SALE BY AGENCY	STEVEN																																																																																																												
+P	8075701	WA	GUMTREE.COM.AU	20/07/2018		22		PECKHAM	STREET 	BECKENHAM	WA	LA	S	878000																			Y																																						2023.00	M2																															NO PHOTO	NOT APPLICABLE		UNKNOWN		20/07/2018			
+C	8075701	GUARDIAN WA PROPERTY CONSULTANT	STEVEN																																																																																																												
